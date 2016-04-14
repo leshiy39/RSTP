@@ -29,6 +29,7 @@
 #include <unistd.h>
 #include <net/if.h>
 #include <stdlib.h>
+#include <netinet/ip6.h>
 #include <linux/if_bridge.h>
 #include <arpa/inet.h>
 #include <sys/types.h>
